@@ -4,7 +4,7 @@ Data
 
 To help Srikanth in his search we will need to access following data:
 
-- The Localities of Bangalore, Karnataka from a website : http://www.nivalink.com/localities-and-landmarks/bangalore
+- The Localities of Bangalore, Karnataka from a website : https://www.thrillophilia.com/destinations/bangalore/places-to-visit
 
 - The coordinates (latitude, longitude) ot these Localities of Bangalore from Open Street Map APIs
 
